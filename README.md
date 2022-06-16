@@ -1,5 +1,8 @@
 # A Practical Introduction to Prisma
 
+http://pris.ly/we-are-devs-22
+
+
 This repository contains the starter project for the **Database Workflows & API Development with Prisma** workshop by [Nikolas Burk](https://twitter.com/nikolasburk).
 
 ## Setup
